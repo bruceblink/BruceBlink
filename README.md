@@ -53,6 +53,9 @@
 ![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
 ---
 
 ## 💡 我的理念
