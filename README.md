@@ -2,6 +2,11 @@
 
 欢迎来到我的 GitHub 主页！
 
+## 最近的活动
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 📊 **本周我的时间都用在:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -50,9 +55,6 @@
 </div>
 ![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
