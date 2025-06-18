@@ -1,13 +1,12 @@
 # Hi，👋 我是 BruceBlink
 
 欢迎来到我的 GitHub 主页！
+
 📊 **本周我的时间都用在:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
-
-
 
 ## 🚀 精选项目
 
@@ -45,8 +44,12 @@
 
 ## 🎯 贡献与活跃度
 
-![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical" alt="BruceBlink's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</div>
+
+
 ![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
