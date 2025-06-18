@@ -51,8 +51,7 @@
 ![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical)
 ![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=BruceBlink&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
 ---
 
