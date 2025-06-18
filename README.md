@@ -49,12 +49,16 @@
 
 ## 🎯 贡献与活跃度
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical" alt="BruceBlink's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical" alt="Top Langs" height="200"/>
+<!-- 统计与活跃度展示 -->
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 16px; justify-content: center; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical" alt="BruceBlink's GitHub Stats" style="flex: 1 1 320px; min-width:240px; max-width:60%; height:200px; object-fit:contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical" alt="Top Langs" style="flex: 1 1 180px; min-width:160px; max-width:38%; height:200px; object-fit:contain;"/>
 </div>
-![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
+<div style="height: 32px;"></div>
+<div style="width:100%; display:flex; flex-direction:column; align-items:center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical" alt="BruceBlink's GitHub Contribution Graph" style="width:80vw; max-width:1000px; min-width:320px; height:auto; margin-bottom:32px;"/>
+  <img src="https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans" alt="GitHub Streak" style="width:80vw; max-width:1000px; min-width:320px; height:auto;"/>
+</div>
 
 ---
 
