@@ -1,6 +1,9 @@
 # Hi，👋 我是 BruceBlink
 
 欢迎来到我的 GitHub 主页！
+📊 **本周我的时间都用在:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -15,7 +18,7 @@
 ## 🚀 精选项目
 
 - **分布式与系统开发**
-  - [AgileBoot-Back-End](https://github.com/BruceBlink/AgileBoot-Back-End): Springboot全栈开发脚手架
+  - [AgileBoot-Back-End](https://github.com/BruceBlink/AgileBoot-Back-End): SpringBoot全栈开发脚手架
   - [zero2prod-in-rust](https://github.com/BruceBlink/zero2prod-in-rust)：Rust 实战，构建生产级 Web 服务
   - [my-redis](https://github.com/BruceBlink/my-redis)：用 Rust 实现的 Redis 学习项目
   - [spring-cloud-demo](https://github.com/BruceBlink/spring-cloud-demo)：Spring Cloud 微服务架构实践
