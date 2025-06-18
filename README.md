@@ -70,6 +70,11 @@ No activity tracked
 ## 最近的活动
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#94](https://github.com/cmliu/SubsCheck-Win-GUI/pull/94) in [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI)
+2. ❌ Closed PR [#83](https://github.com/valarchie/AgileBoot-Back-End/pull/83) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
+3. ❌ Closed PR [#167](https://github.com/continew-org/continew-admin/pull/167) in [continew-org/continew-admin](https://github.com/continew-org/continew-admin)
+4. 🗣 Commented on [#82](https://github.com/valarchie/AgileBoot-Back-End/issues/82) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
+5. 💪 Opened PR [#82](https://github.com/valarchie/AgileBoot-Back-End/pull/82) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
 <!--END_SECTION:activity-->
 ---
 
