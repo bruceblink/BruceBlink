@@ -29,7 +29,7 @@ No activity tracked
   - [my-spring-boot-starter](https://github.com/BruceBlink/my-spring-boot-starter)：自定义 Spring Boot Starter
 
 - **工具 & 自动化**
-  - [AniTracker](https://github.com/BruceBlink/AniTracker)：追播日历
+  - [AniTracker](https://github.com/BruceBlink/AniTracker)：个人追番助手
   - [free-v2ray](https://github.com/BruceBlink/free-v2ray)：免费 V2Ray 节点收集与测试工具
 
 - **算法 & 编程练习**
