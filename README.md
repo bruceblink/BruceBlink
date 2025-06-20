@@ -1,13 +1,5 @@
 # Hi，👋 我是 BruceBlink
 
-欢迎来到我的 GitHub 主页！
-
-## 🏆 关于我
-
-- **后端 & 全栈开发者**，专注于高质量、高性能系统的设计与实现
-- 熟悉：**Java**（Spring/Spring Boot）、**Python**、**Go**、**Rust**
-- 热爱学习、乐于开源，追求技术深度与广度
-
 📊 **本周我的时间都用在:**
 <!--START_SECTION:waka-->
 
@@ -16,6 +8,13 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+## 🏆 关于我
+
+- **后端 & 全栈开发者**，专注于高质量、高性能系统的设计与实现
+- 熟悉：**Java**（Spring/Spring Boot）、**Python**、**Go**、**Rust**
+- 热爱学习、乐于开源，追求技术深度与广度
+
 
 ---
 
