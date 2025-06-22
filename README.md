@@ -73,11 +73,11 @@ YAML               14 mins         ▒░░░░░░░░░░░░░░
 ## 最近的活动
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#94](https://github.com/cmliu/SubsCheck-Win-GUI/pull/94) in [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI)
-2. ❌ Closed PR [#83](https://github.com/valarchie/AgileBoot-Back-End/pull/83) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
-3. ❌ Closed PR [#167](https://github.com/continew-org/continew-admin/pull/167) in [continew-org/continew-admin](https://github.com/continew-org/continew-admin)
-4. 🗣 Commented on [#82](https://github.com/valarchie/AgileBoot-Back-End/issues/82) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
-5. 💪 Opened PR [#82](https://github.com/valarchie/AgileBoot-Back-End/pull/82) in [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End)
+1. 🎉 Merged PR [#2](https://github.com/bruceblink/free-v2ray/pull/2) in [bruceblink/free-v2ray](https://github.com/bruceblink/free-v2ray)
+2. 💪 Opened PR [#2](https://github.com/bruceblink/free-v2ray/pull/2) in [bruceblink/free-v2ray](https://github.com/bruceblink/free-v2ray)
+3. 🎉 Merged PR [#2](https://github.com/bruceblink/AniTracker/pull/2) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
+4. 💪 Opened PR [#2](https://github.com/bruceblink/AniTracker/pull/2) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
+5. ❌ Closed PR [#1](https://github.com/bruceblink/AniTracker/pull/1) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
 <!--END_SECTION:activity-->
 ---
 
