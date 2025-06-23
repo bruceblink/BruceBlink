@@ -1,4 +1,4 @@
-# Hi，👋 我是 BruceBlink
+# Hi，<a href="https://github.com/bruceblink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> ! 我是 BruceBlink
 
 📊 **本周我的时间都用在:**
 <!--START_SECTION:waka-->
