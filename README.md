@@ -25,24 +25,24 @@ Go                 48 mins         ▓░░░░░░░░░░░░░░
 ## 🚀 精选项目
 
 - **分布式与系统开发**
-  - [AgileBoot-Back-End](https://github.com/BruceBlink/AgileBoot-Back-End): SpringBoot全栈开发脚手架
-  - [zero2prod-in-rust](https://github.com/BruceBlink/zero2prod-in-rust)：Rust 实战，构建生产级 Web 服务
-  - [my-redis](https://github.com/BruceBlink/my-redis)：用 Rust 实现的 Redis 学习项目
-  - [spring-cloud-demo](https://github.com/BruceBlink/spring-cloud-demo)：Spring Cloud 微服务架构实践
-  - [my-spring-boot-starter](https://github.com/BruceBlink/my-spring-boot-starter)：自定义 Spring Boot Starter
+  - [AgileBoot-Back-End](https://github.com/bruceblink/AgileBoot-Back-End): SpringBoot全栈开发脚手架
+  - [zero2prod-in-rust](https://github.com/bruceblink/zero2prod-in-rust)：Rust 实战，构建生产级 Web 服务
+  - [my-redis](https://github.com/bruceblink/my-redis)：用 Rust 实现的 Redis 学习项目
+  - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo)：Spring Cloud 微服务架构实践
+  - [my-spring-boot-starter](https://github.com/bruceblink/my-spring-boot-starter)：自定义 Spring Boot Starter
 
 - **工具 & 自动化**
-  - [AniTracker](https://github.com/BruceBlink/AniTracker)：个人追番助手
-  - [free-v2ray](https://github.com/BruceBlink/free-v2ray)：免费 V2Ray 节点收集与测试工具
+  - [AniTracker](https://github.com/bruceblink/anitracker)：个人追番助手
+  - [free-v2ray](https://github.com/bruceblink/free-v2ray)：免费 V2Ray 节点收集与测试工具
 
 - **算法 & 编程练习**
-  - [algo-python](https://github.com/BruceBlink/algo-python)：LeetCode 刷题计划，系统性算法训练
+  - [algo-python](https://github.com/bruceblink/algo-python)：LeetCode 刷题计划，系统性算法训练
 
 - **技术翻译 & 文档**
-  - [Database-Design-and-Implementation](https://github.com/BruceBlink/Database-Design-and-Implementation)：数据库设计与实现（教材中文翻译）
-  - [practical-file-system-design-translation](https://github.com/BruceBlink/practical-file-system-design-translation)：文件系统设计经典书籍翻译
+  - [Database-Design-and-Implementation](https://github.com/bruceblink/Database-Design-and-Implementation)：数据库设计与实现（教材中文翻译）
+  - [practical-file-system-design-translation](https://github.com/bruceblink/practical-file-system-design-translation)：文件系统设计经典书籍翻译
 
-> 👉 [点击查看更多仓库](https://github.com/BruceBlink?tab=repositories)
+> 👉 [点击查看更多仓库](https://github.com/bruceblink?tab=repositories)
 
 ---
 
@@ -60,13 +60,13 @@ Go                 48 mins         ▓░░░░░░░░░░░░░░
 
 <!-- 统计与活跃度展示 -->
 
-![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruceBlink&show_icons=true&theme=radical)
+![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruceblink&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceBlink&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceblink&layout=compact&theme=radical)
 
-![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceBlink&theme=radical)
+![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruceblink&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=BruceBlink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
+![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=bruceblink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
 ---
 
