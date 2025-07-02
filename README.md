@@ -60,7 +60,7 @@ YAML               3 hrs 46 mins   █▒░░░░░░░░░░░░░
 
 <!-- 统计与活跃度展示 -->
 
-![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruceblink&show_icons=true&theme=radical)
+<!-- ![BruceBlink's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruceblink&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceblink&layout=compact&theme=radical)
 
