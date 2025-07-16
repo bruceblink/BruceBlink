@@ -64,7 +64,7 @@ Python            2 hrs 2 mins    ▓░░░░░░░░░░░░░░�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceblink&layout=compact&theme=radical)
 
-<!--![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruceblink&theme=radical)-->
+![BruceBlink's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruceblink&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=bruceblink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
