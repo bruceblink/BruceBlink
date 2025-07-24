@@ -32,7 +32,8 @@ Python            2 hrs 2 mins    ▓░░░░░░░░░░░░░░�
   - [my-spring-boot-starter](https://github.com/bruceblink/my-spring-boot-starter)：自定义 Spring Boot Starter
 
 - **工具 & 自动化**
-  - [AniTracker](https://github.com/bruceblink/anitracker)：个人追番助手
+  - [ani-todo-app](https://github.com/bruceblink/ani-todo-app)：个人追番助手助手GUI客户端-Rust实现
+  - [AniTracker](https://github.com/bruceblink/anitracker)：个人追番助手-Python爬虫
   - [free-v2ray](https://github.com/bruceblink/free-v2ray)：免费 V2Ray 节点收集与测试工具
 
 - **算法 & 编程练习**
