@@ -13,7 +13,7 @@
 
 - **分布式与系统开发**
   - [AgileBoot-Back-End](https://github.com/bruceblink/AgileBoot-Back-End): SpringBoot全栈开发脚手架
-  - [zero2prod-in-rust](https://github.com/bruceblink/zero2prod-in-rust)：Rust 实战，构建生产级 Web 服务
+  - [ani-updater](https://github.com/bruceblink/ani-updater)：Rust 实战，构建生产级 Web 服务
   - [task-mern](https://github.com/bruceblink/task-mern)：使用MERN技术栈的全栈Web应用 
   - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo)：Spring Cloud 微服务架构实践
   - [my-spring-boot-starter](https://github.com/bruceblink/my-spring-boot-starter)：自定义 Spring Boot Starter
