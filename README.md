@@ -16,7 +16,6 @@
   - [ani-updater](https://github.com/bruceblink/ani-updater)：Rust 实战，构建生产级 Web 服务
   - [task-mern](https://github.com/bruceblink/task-mern)：使用MERN技术栈的全栈Web应用 
   - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo)：Spring Cloud 微服务架构实践
-  - [my-spring-boot-starter](https://github.com/bruceblink/my-spring-boot-starter)：自定义 Spring Boot Starter
 
 - **工具 & 自动化**
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app)：个人追番助手助手GUI客户端-使用tauri + react实现
