@@ -19,7 +19,6 @@
 
 - **工具 & 自动化**
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app)：个人追番助手助手GUI客户端-使用tauri + react实现
-  - [ani-tracker](https://github.com/bruceblink/ani-tracker)：使用Rust开发的全栈Web应用，包含Web、桌面及服务端
   - [anitracker](https://github.com/bruceblink/anitracker)：个人追番助手-Python爬虫
   - [free-v2ray](https://github.com/bruceblink/free-v2ray)：免费 V2Ray 节点收集与测试工具
 
