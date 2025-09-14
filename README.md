@@ -14,6 +14,7 @@
 - **分布式与系统开发**
   - [AgileBoot-Back-End](https://github.com/bruceblink/AgileBoot-Back-End): SpringBoot全栈开发脚手架
   - [ani-updater](https://github.com/bruceblink/ani-updater)：Rust 实战，构建生产级 Web 服务
+  - [nextjs-dashboard](https://github.com/bruceblink/nextjs-dashboard): 使用Nextjs构建的全栈Web应用
   - [task-mern](https://github.com/bruceblink/task-mern)：使用MERN技术栈的全栈Web应用 
   - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo)：Spring Cloud 微服务架构实践
 
