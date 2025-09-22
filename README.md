@@ -19,7 +19,7 @@
   - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo)：Spring Cloud 微服务架构实践
 
 - **工具 & 自动化**
-  - [newsnow](https://github.com/bruceblink/newsnow): 一个实时的新闻聚合web app   
+  - [LatestNews](https://github.com/bruceblink/LatestNews): 一个实时的新闻聚合web app   
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app)：个人追番助手助手GUI客户端-使用tauri + react实现
   - [anitracker](https://github.com/bruceblink/anitracker)：个人追番助手-Python爬虫
   - [free-v2ray](https://github.com/bruceblink/free-v2ray)：免费 V2Ray 节点收集与测试工具
