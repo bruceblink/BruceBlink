@@ -1,5 +1,10 @@
 # Hi， 我是 [BruceBlink]("https://github.com/bruceblink") ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
+📊 **本周我的时间都用在:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 🏆 关于我
 
 - **后端 & 全栈开发者**，专注于高质量、高性能系统的设计与实现
