@@ -74,11 +74,11 @@ YAML       0 secs          ░░░░░░░░░░░░░░░░░�
 ## 最近的活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/bruceblink/subs-checker/issues/1) in [bruceblink/subs-checker](https://github.com/bruceblink/subs-checker)
-2. 🗣 Commented on [#1](https://github.com/bruceblink/subs-checker/issues/1) in [bruceblink/subs-checker](https://github.com/bruceblink/subs-checker)
-3. 🎉 Merged PR [#2](https://github.com/bruceblink/AniTracker/pull/2) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
-4. 💪 Opened PR [#2](https://github.com/bruceblink/AniTracker/pull/2) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
-5. ❌ Closed PR [#1](https://github.com/bruceblink/AniTracker/pull/1) in [bruceblink/AniTracker](https://github.com/bruceblink/AniTracker)
+1. 💪 Opened PR [#237](https://github.com/ourongxing/newsnow/pull/237) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+2. ❌ Closed PR [#236](https://github.com/ourongxing/newsnow/pull/236) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+3. 💪 Opened PR [#236](https://github.com/ourongxing/newsnow/pull/236) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+4. 🎉 Merged PR [#1](https://github.com/bruceblink/newsnow/pull/1) in [bruceblink/newsnow](https://github.com/bruceblink/newsnow)
+5. 💪 Opened PR [#1](https://github.com/bruceblink/newsnow/pull/1) in [bruceblink/newsnow](https://github.com/bruceblink/newsnow)
 <!--END_SECTION:activity-->
 ---
 
