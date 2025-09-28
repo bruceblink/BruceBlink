@@ -2,7 +2,7 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "55 15 * * *" # 北京时间每天23:55分
   workflow_dispatch:
 
 jobs:
