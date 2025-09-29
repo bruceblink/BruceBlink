@@ -1,7 +1,7 @@
 # Hi， 我是 [BruceBlink]("https://github.com/bruceblink") ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<!--START_SECTION:waka-->
-📊 **本周我的时间都用在:**
+
+<!--📊 **本周我的时间都用在:**START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
