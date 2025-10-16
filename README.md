@@ -8,7 +8,7 @@
 ## 🏆 关于我
 
 - **后端 & 全栈开发者**，专注于高质量、高性能系统的设计与实现
-- 熟悉：**Java**、**Python**、**Rust**、**JavaScript/TypeScript**等
+- 熟悉：**Java**、**Python**、**Rust**、**JavaScript/TypeScript**、**Zig**等
 - 热爱学习、乐于开源，追求技术深度与广度
 
 
