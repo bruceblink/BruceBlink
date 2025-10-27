@@ -42,7 +42,7 @@
 
 ## 📚 技能栈
 
-- **后端开发**：Java、Python、Go、Rust
+- **后端开发**：Java、Python、Rust等
 - **系统架构**：微服务、分布式系统、数据库设计与优化
 - **前端 & 全栈**：TypeScript、Node.js、API 设计
 - **工程实践**：Git、Docker、CI/CD、自动化部署
