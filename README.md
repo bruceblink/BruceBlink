@@ -68,11 +68,6 @@
 ![GitHub Streak](https://github-readme-streak-stats-nfv4.vercel.app?user=bruceblink&theme=dark&hide_border=true&border_radius=4.1&locale=zh_Hans)
 
 
-## 联系方式
-
-- GitHub: https://github.com/bruceblink
-- 如果你对项目有建议或想一起合作，欢迎通过 issue / PR 联系我。
-
 
 ## 个人理念
 
