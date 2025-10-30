@@ -12,5 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+        continue-on-error: true
+        with:
+          GH_USERNAME: bruceblink
+          COMMIT_MSG: ":zap: Update README with the recent activity"
+          COMMIT_USERNAME: readme-bot
+          COMMIT_EMAIL: readme-bot@example.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
