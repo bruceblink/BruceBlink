@@ -48,7 +48,7 @@ Other              5 hrs 9 mins    █▓░░░░░░░░░░░░░
   - [algo-python](https://github.com/bruceblink/algo-python) — 系统化的算法练习与 LeetCode 刷题计划
 
 - 翻译与文档
-  - [learn-haskell-by-example](https://likanug.top/docs/category/learn-haskell-by-example) — Haskell入门学习的中文翻译
+  - [learn-haskell-by-example](https://likanug.top/books/learn-haskell-by-example) — 《通过示例学习Haskell》一本Haskell入门学习书籍的中文翻译
   - [Database-Design-and-Implementation](https://github.com/bruceblink/Database-Design-and-Implementation) — 数据库设计教材的中文翻译
   - [practical-file-system-design-translation](https://github.com/bruceblink/practical-file-system-design-translation) — 文件系统设计经典书籍翻译
 
