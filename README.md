@@ -19,7 +19,7 @@ Other              5 hrs 9 mins    █▓░░░░░░░░░░░░░
 ## 关于我
 
 - 专注于高质量、高性能系统的设计与实现，擅长后端与分布式系统架构
-- 熟悉语言：Java、Python、Rust、JavaScript/TypeScript、Zig
+- 熟悉语言：Java、Python、Rust、JavaScript/TypeScript、Zig等
 - 擅长领域：微服务、分布式系统、数据库设计与优化、系统编程
 - 喜欢把复杂的问题分解为可交付的小模块，重视工程实践（CI/CD、容器化、自动化测试）
 - 热爱开源与技术翻译，愿意把实践经验分享给社区
