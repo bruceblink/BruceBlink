@@ -3,9 +3,9 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Execute every 2 hours from 8:00 AM to 2:00 AM. Beijing Time (utc+8)
+    # Execute every 3 hours from 8:00 AM to 2:00 AM. Beijing Time (utc+8)
     #- cron: "0 8-22/2,0-2/2 * * *"
-    - cron: "0 0-18/2 * * *"    # utc time
+    - cron: "0 0-18/3 * * *"    # utc time
 
 jobs:
   update-readme:
