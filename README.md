@@ -49,8 +49,8 @@ Markdown         4 hrs 41 mins   █▓░░░░░░░░░░░░░�
 
 - 翻译与文档
   - [learn-haskell-by-example](https://likanug.top/books/learn-haskell-by-example) — 《通过示例学习Haskell》一本Haskell入门学习书籍的中文翻译
-  - [Database-Design-and-Implementation](https://github.com/bruceblink/Database-Design-and-Implementation) — 数据库设计教材的中文翻译
-  - [practical-file-system-design-translation](https://github.com/bruceblink/practical-file-system-design-translation) — 文件系统设计经典书籍翻译
+  - [Database-Design-and-Implementation](https://likanug.top/books/database-design-and-implementation-second-edition) — 数据库设计教材的中文翻译
+  - [practical-file-system-design-translation](https://likanug.top/books/practical-file-system-design-with-the-be-file-system) — 文件系统设计经典书籍翻译
 
 👉 更多仓库请查看：https://github.com/bruceblink?tab=repositories
 
