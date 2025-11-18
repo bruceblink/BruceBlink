@@ -67,6 +67,7 @@ Other          24 mins         ▓░░░░░░░░░░░░░░░�
 ## 近期活动
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#255](https://github.com/ourongxing/newsnow/pull/255) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
