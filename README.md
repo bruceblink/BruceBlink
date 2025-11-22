@@ -67,7 +67,7 @@ Haskell          53 mins         ▓░░░░░░░░░░░░░░�
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/ourongxing/newsnow/issues/227) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 💪 Opened PR [#260](https://github.com/ourongxing/newsnow/pull/260) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
