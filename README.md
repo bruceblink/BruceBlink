@@ -40,7 +40,7 @@ Other              2 hrs 39 mins   █░░░░░░░░░░░░░░
 
 - 工具与自动化
   - [LatestNews](https://github.com/bruceblink/LatestNews) — 实时新闻聚合 Web 应用
-  - [wordfreq-cn](https://github.com/bruceblink/word-freq) — 基于TF-IDF算法的词频统计生成趋势图云的工具
+  - [wordfreq-cn](https://github.com/bruceblink/word-freq) — 基于TF-IDF算法的词频统计生成趋势词云的工具
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app) — 基于 Tauri + React 的桌面 GUI 客户端
   - [anitracker](https://github.com/bruceblink/anitracker) — 用于追番的 Python 爬虫与数据处理工具
   - [free-v2ray](https://github.com/bruceblink/free-v2ray) — V2Ray 节点收集与测试工具
