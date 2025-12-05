@@ -68,7 +68,7 @@ TOML               1 hr 56 mins    ▓░░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/ourongxing/newsnow/issues/267) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 🗣 Commented on [#271](https://github.com/ourongxing/newsnow/issues/271) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
