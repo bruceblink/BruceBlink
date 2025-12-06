@@ -68,7 +68,7 @@ TypeScript         2 hrs 25 mins   █░░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/ourongxing/newsnow/issues/271) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. ❌ Merged PR [#273](https://github.com/ourongxing/newsnow/pull/273) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
