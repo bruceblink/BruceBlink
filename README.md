@@ -68,7 +68,7 @@ YAML               2 hrs 18 mins   ▓░░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#273](https://github.com/ourongxing/newsnow/pull/273) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 🗣 Commented on [#270](https://github.com/ourongxing/newsnow/issues/270) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
