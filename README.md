@@ -68,7 +68,7 @@ Other            2 hrs 22 mins   ▓░░░░░░░░░░░░░░�
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/ourongxing/newsnow/issues/270) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 🗣 Commented on [#352](https://github.com/QSCTech/zju-icicles/issues/352) in [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
 <!--END_SECTION:activity-->
 
 
