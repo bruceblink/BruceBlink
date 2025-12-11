@@ -68,7 +68,7 @@ Other            2 hrs 34 mins   ▓░░░░░░░░░░░░░░�
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/QSCTech/zju-icicles/issues/352) in [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
+1. ❌ Closed PR [#820](https://github.com/PKUFlyingPig/cs-self-learning/pull/820) in [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 <!--END_SECTION:activity-->
 
 
