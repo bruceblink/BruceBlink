@@ -68,7 +68,7 @@ Other              3 hrs 46 mins   █▒░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#820](https://github.com/PKUFlyingPig/cs-self-learning/pull/820) in [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+1. ❌ Closed PR [#13](https://github.com/hehonghui/awesome-english-ebooks/pull/13) in [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
 <!--END_SECTION:activity-->
 
 
