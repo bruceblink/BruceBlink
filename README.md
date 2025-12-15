@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Browsing           37 hrs 10 mins  ███████████▓░░░░░░░░░░░░░   46.93 %
-Python             18 hrs 51 mins  ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-TypeScript         9 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Other              4 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Rust               3 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Browsing           37 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.55 %
+Python             15 hrs 46 mins  █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+TypeScript         9 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Other              5 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Rust               2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
