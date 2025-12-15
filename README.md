@@ -68,7 +68,7 @@ Rust               2 hrs 37 mins   █░░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/hehonghui/awesome-english-ebooks/pull/13) in [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
+1. 🗣 Commented on [#277](https://github.com/ourongxing/newsnow/issues/277) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
