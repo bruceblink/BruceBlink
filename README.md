@@ -30,16 +30,17 @@ Rust               2 hrs 37 mins   █░░░░░░░░░░░░░░
 下面是我近期和代表性的仓库，按主题分组并附一行说明：
 
 - 分布式与后端
-  - [AgileBoot-Back-End](https://github.com/bruceblink/AgileBoot-Back-End) — Spring Boot 全栈开发脚手架，包含常用企业级模板与实践
   - [ani-updater](https://github.com/bruceblink/ani-updater) — 使用 Rust 构建的生产级 Web 服务示例，强调性能与可靠性
+  - [news-analytics](https://github.com/bruceblink/news-analytics) — FastAPI框架开发的新闻数据分析Web服务
+  - [AgileBoot-Back-End](https://github.com/bruceblink/AgileBoot-Back-End) — Spring Boot 全栈开发脚手架，包含常用企业级模板与实践
   - [spring-cloud-demo](https://github.com/bruceblink/spring-cloud-demo) — Spring Cloud 微服务架构实践样例
 
 - 全栈与前端
+  - [LatestNews](https://github.com/bruceblink/LatestNews) — 实时新闻聚合 Web 应用
   - [NextTV](https://github.com/bruceblink/NextTV) — 基于 Next.js 的全栈 Web 应用示例
   - [task-mern](https://github.com/bruceblink/task-mern) — 基于 MERN（MongoDB/Express/React/Node）栈的任务管理示例
 
 - 工具与自动化
-  - [LatestNews](https://github.com/bruceblink/LatestNews) — 实时新闻聚合 Web 应用
   - [wordfreq-cn](https://github.com/bruceblink/word-freq) — 基于TF-IDF算法的词频统计生成趋势词云的工具
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app) — 基于 Tauri + React 的桌面 GUI 客户端
   - [anitracker](https://github.com/bruceblink/anitracker) — 用于追番的 Python 爬虫与数据处理工具
