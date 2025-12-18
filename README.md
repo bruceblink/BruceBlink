@@ -69,7 +69,7 @@ Rust               2 hrs 56 mins   █░░░░░░░░░░░░░░
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#285](https://github.com/ourongxing/newsnow/pull/285) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 💪 Opened PR [#286](https://github.com/ourongxing/newsnow/pull/286) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
