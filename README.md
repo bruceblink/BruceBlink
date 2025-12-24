@@ -69,7 +69,7 @@ TOML             3 hrs 33 mins   █░░░░░░░░░░░░░░�
 ## 近期活动
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#282](https://github.com/ourongxing/newsnow/pull/282) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+1. 🗣 Commented on [#288](https://github.com/ourongxing/newsnow/issues/288) in [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 <!--END_SECTION:activity-->
 
 
