@@ -41,6 +41,7 @@ Other            3 hrs 30 mins   █░░░░░░░░░░░░░░�
   - [task-mern](https://github.com/bruceblink/task-mern) — 基于 MERN（MongoDB/Express/React/Node）栈的任务管理示例
 
 - 工具与自动化
+  - [AlterSendme](https://github.com/bruceblink/alter-sendme) — 一款可以内网穿透的P2P文件传输工具 
   - [wordfreq-cn](https://github.com/bruceblink/word-freq) — 基于TF-IDF算法的词频统计生成趋势词云的工具
   - [ani-todo-app](https://github.com/bruceblink/ani-todo-app) — 基于 Tauri + React 的桌面 GUI 客户端
   - [anitracker](https://github.com/bruceblink/anitracker) — 用于追番的 Python 爬虫与数据处理工具
