@@ -98,7 +98,7 @@ https://github.com/bruceblink/ani-updater
 - *Database Design and Implementation* (Chinese)
 - *Practical File System Design* (Chinese)
 
-https://likanug.top/books
+[https://likanug.top/books](https://likanug.top/books/intro)
 
 ---
 
@@ -115,5 +115,6 @@ https://likanug.top/books
 
 - GitHub：https://github.com/bruceblink
 - Email：likanug.g@qq.com
+
 
 
