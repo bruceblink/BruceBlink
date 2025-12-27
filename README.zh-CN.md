@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi，I'm [Likanug](https://github.com/bruceblink) ! 
 
 > 后端工程师 · 系统与架构方向  
-> Java / Rust / Go / 分布式系统 / 网络
+> Java / Rust / Python / Go / 分布式系统 / 网络
 
 📌 **English (minimal)** → [README.md](./README.md)
 
@@ -115,4 +115,5 @@ https://likanug.top/books
 
 - GitHub：https://github.com/bruceblink
 - Email：likanug.g@qq.com
+
 
