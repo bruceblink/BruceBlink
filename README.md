@@ -1,13 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi，I'm [Likanug](https://github.com/bruceblink) ! 
 
 > Software Engineer · Systems & Architecture  
-> Java · Rust · Go · Distributed Systems · Networking
+> Java · Rust · Python · Go · Distributed Systems · Networking
 
 ---
 
 Backend-focused engineer with a strong interest in **system design, distributed systems, and low-level principles**.
 
-I work mainly with **Java** and **Rust**, and use **Go** for tooling and services when it fits best.  
+I work mainly with **Java**、**Rust** and **Python**, and use **Go** for tooling and services when it fits best.  
 I prefer building **production-oriented systems** rather than demos.
 
 My work often involves:
