@@ -45,7 +45,7 @@ My work often involves:
 - *Database Design and Implementation* (Chinese)
 - *Practical File System Design* (Chinese)
 
-https://likanug.top/books
+[https://likanug.top/books](https://likanug.top/books/intro)
 
 ---
 
