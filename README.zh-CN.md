@@ -97,6 +97,7 @@ https://github.com/bruceblink/ani-updater
 - *Learn Haskell by Example* (Chinese)
 - *Database Design and Implementation* (Chinese)
 - *Practical File System Design* (Chinese)
+- *Rust Atomics and Locks* (Chinese)
 
 [https://likanug.top/books](https://likanug.top/books/intro)
 
@@ -115,6 +116,7 @@ https://github.com/bruceblink/ani-updater
 
 - GitHub：https://github.com/bruceblink
 - Email：likanug.g@qq.com
+
 
 
 
