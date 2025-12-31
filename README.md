@@ -44,6 +44,7 @@ My work often involves:
 - *Learn Haskell by Example* (Chinese)
 - *Database Design and Implementation* (Chinese)
 - *Practical File System Design* (Chinese)
+- *Rust Atomics and Locks* (Chinese)
 
 [https://likanug.top/books](https://likanug.top/books/intro)
 
