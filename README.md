@@ -28,6 +28,10 @@ My work often involves:
 
 - **ani-updater** — Production-oriented Rust web service  
   https://github.com/bruceblink/ani-updater
+
+- **AgileBoot-Back-End** - Production-oriented Java web service of dashboard-admin
+
+  https://github.com/bruceblink/AgileBoot-Back-End
   
 - **Crawling tooling & automation** — Crawling, normalization, and desktop tools  
   https://github.com/bruceblink/LatestNews
