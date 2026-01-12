@@ -88,7 +88,6 @@ https://github.com/bruceblink/ani-updater
 - LatestNews — 全栈 Web 应用
 - news-analytics — FastAPI 数据分析服务
 - AgileBoot-Back-End — Spring Boot 企业级脚手架
-- spring-cloud-demo — Spring Cloud 微服务示例
 
 ---
 
@@ -116,6 +115,7 @@ https://github.com/bruceblink/ani-updater
 
 - GitHub：https://github.com/bruceblink
 - Email：likanug.g@qq.com
+
 
 
 
