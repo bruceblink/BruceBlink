@@ -49,7 +49,7 @@
 
 ---
 ### Stats
-![bruceblink](https://github-readme-stats.vercel.app/api/top-langs?username=bruceblink&show_icons=true&locale=en&layout=compact)
+![bruceblink](https://github-readme-stats.vercel.app/api/top-langs?username=bruceblink&show_icons=true&locale=en&layout=compact&theme=dark)
 ![snake gif](https://github.com/bruceblink/bruceblink/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Selected Projects
