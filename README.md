@@ -7,6 +7,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=flat-square&logo=github&logoColor=white)](https://github.com/bruceblink)
 [![Email](https://img.shields.io/badge/Email-likanug.g%40qq.com-563d7c?style=flat-square&logo=gmail&logoColor=white)](mailto:likanug.g@qq.com)
 [![Books](https://img.shields.io/badge/Books-likanug.top-563d7c?style=flat-square&logo=gitbook&logoColor=white)](https://likanug.top/books/intro)
+![Profile Views](https://komarev.com/ghpvc/?username=bruceblink&color=563d7c&style=flat-square&label=Profile+Views)
+
+📌 **中文版** → [README.zh-CN.md](./README.zh-CN.md)
 
 </div>
 
@@ -37,6 +40,33 @@
   </a>
 </p>
 
+<details>
+<summary>📋 Detailed Tech Stack</summary>
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Systems
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+> P2P · UDP · NAT Hole Punching · iroh · async/await
+
+### Frontend / Desktop
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -64,30 +94,47 @@
 
 ## 🧩 Selected Projects
 
-| Project | Description |
-|---------|-------------|
-| [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | Secure P2P file transfer with NAT traversal (Rust + iroh) |
-| [**sendmer**](https://github.com/bruceblink/sendmer) | CLI file sender — foundation of AlterSendme |
-| [**Agora**](https://github.com/bruceblink/Agora) | Multi-source news aggregation & event analysis platform (Rust) |
-| [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | Spring Boot enterprise admin scaffold |
-| [**LatestNews**](https://github.com/bruceblink/LatestNews) | Full-stack multi-source news aggregator |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Secure P2P file transfer with NAT traversal (iroh) |
+| [**sendmer**](https://github.com/bruceblink/sendmer) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | CLI file sender — foundation of AlterSendme |
+| [**Agora**](https://github.com/bruceblink/Agora) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | Multi-source news aggregation & event analysis platform |
+| [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot enterprise admin scaffold |
+| [**LatestNews**](https://github.com/bruceblink/LatestNews) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Full-stack multi-source news aggregator |
 
 ---
 
 ## 📖 Writing & Translations
 
-- *Learn Haskell by Example* (Chinese)
-- *Database Design and Implementation* (Chinese)
-- *Practical File System Design* (Chinese)
-- *Rust Atomics and Locks* (Chinese)
+| Book | Language |
+|------|----------|
+| 📘 *Learn Haskell by Example* | Chinese |
+| 📗 *Database Design and Implementation* | Chinese |
+| 📙 *Practical File System Design* | Chinese |
+| 📕 *Rust Atomics and Locks* | Chinese |
 
 🔗 [likanug.top/books](https://likanug.top/books/intro)
 
 ---
 
-> *Understand the system first, then build on top of it.*
+## 🧭 Engineering Philosophy
 
-📖 **Full version (中文)** → [README.zh-CN.md](./README.zh-CN.md)
+> *Abstraction should reduce complexity, not hide it*  
+> *The type system is executable documentation*  
+> *System design should serve long-term evolution*  
+> *Infrastructure and tooling are part of the product*
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruceblink)
+[![Email](https://img.shields.io/badge/Email-likanug.g%40qq.com-563d7c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likanug.g@qq.com)
+[![Books](https://img.shields.io/badge/Books-likanug.top-563d7c?style=for-the-badge&logo=gitbook&logoColor=white)](https://likanug.top/books/intro)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=80&section=footer)
 
