@@ -104,11 +104,9 @@
 |------|------|
 | [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | 安全的 P2P 文件传输，支持 NAT 穿透（Rust + iroh） |
 | [**sendmer**](https://github.com/bruceblink/sendmer) | CLI 文件发送工具，AlterSendme 的基础层 |
-| [**ani-updater**](https://github.com/bruceblink/ani-updater) | 面向生产环境的 Rust Web 服务 |
+| [**Agora**](https://github.com/bruceblink/Agora) | 基于 Rust 的多源新闻聚合与事件分析平台 |
 | [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | Spring Boot 企业级后台管理脚手架 |
 | [**LatestNews**](https://github.com/bruceblink/LatestNews) | 全栈多源新闻聚合 Web 应用 |
-| [**anitracker**](https://github.com/bruceblink/anitracker) | 动漫追踪与数据抓取工具 |
-| [**ani-todo-app**](https://github.com/bruceblink/ani-todo-app) | 桌面 Todo 应用（Tauri + React） |
 
 ---
 

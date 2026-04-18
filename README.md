@@ -68,11 +68,9 @@
 |---------|-------------|
 | [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | Secure P2P file transfer with NAT traversal (Rust + iroh) |
 | [**sendmer**](https://github.com/bruceblink/sendmer) | CLI file sender — foundation of AlterSendme |
-| [**ani-updater**](https://github.com/bruceblink/ani-updater) | Production-oriented Rust web service |
+| [**Agora**](https://github.com/bruceblink/Agora) | Multi-source news aggregation & event analysis platform (Rust) |
 | [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | Spring Boot enterprise admin scaffold |
 | [**LatestNews**](https://github.com/bruceblink/LatestNews) | Full-stack multi-source news aggregator |
-| [**anitracker**](https://github.com/bruceblink/anitracker) | Anime tracking & scraping tool |
-| [**ani-todo-app**](https://github.com/bruceblink/ani-todo-app) | Desktop todo app (Tauri + React) |
 
 ---
 
