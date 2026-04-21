@@ -106,7 +106,7 @@
 | [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 安全的 P2P 文件传输，支持 NAT 穿透（iroh） |
 | [**sendmer**](https://github.com/bruceblink/sendmer) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | CLI 文件发送工具，AlterSendme 的基础层 |
 | [**Agora**](https://github.com/bruceblink/Agora) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 基于 Rust 的多源新闻聚合与事件分析平台 |
-| [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot 企业级后台管理脚手架 |
+| [**Keystone**](https://github.com/bruceblink/Keystone) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot 企业级后台管理脚手架 |
 | [**LatestNews**](https://github.com/bruceblink/LatestNews) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 全栈多源新闻聚合 Web 应用 |
 
 ---
