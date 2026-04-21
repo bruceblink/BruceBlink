@@ -99,7 +99,7 @@
 | [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Secure P2P file transfer with NAT traversal (iroh) |
 | [**sendmer**](https://github.com/bruceblink/sendmer) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | CLI file sender — foundation of AlterSendme |
 | [**Agora**](https://github.com/bruceblink/Agora) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | Multi-source news aggregation & event analysis platform |
-| [**AgileBoot-Back-End**](https://github.com/bruceblink/AgileBoot-Back-End) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot enterprise admin scaffold |
+| [**Keystone**](https://github.com/bruceblink/Keystone) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot enterprise admin scaffold |
 | [**LatestNews**](https://github.com/bruceblink/LatestNews) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Full-stack multi-source news aggregator |
 
 ---
