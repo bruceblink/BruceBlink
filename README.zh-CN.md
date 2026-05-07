@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=09FB53&center=true&vCenter=true&width=520&lines=Java+%7C+Rust+%7C+Python+%7C+Go;分布式系统+%2F+网络+%2F+底层原理;开源贡献者+%26+技术译者)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=flat-square&logo=github&logoColor=white)](https://github.com/bruceblink)
-[![Email](https://img.shields.io/badge/Email-likanug.g%40qq.com-563d7c?style=flat-square&logo=gmail&logoColor=white)](mailto:likanug.g@qq.com)
+[![Email](https://img.shields.io/badge/Email-likanug.g%40gmail.com-563d7c?style=flat-square&logo=gmail&logoColor=white)](mailto:likanug.g@gmail.com)
 [![Books](https://img.shields.io/badge/Books-likanug.top-563d7c?style=flat-square&logo=gitbook&logoColor=white)](https://likanug.top/books/intro)
 ![Profile Views](https://komarev.com/ghpvc/?username=bruceblink&color=563d7c&style=flat-square&label=访问次数)
 
@@ -138,7 +138,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruceblink)
-[![Email](https://img.shields.io/badge/Email-likanug.g%40qq.com-563d7c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likanug.g@qq.com)
+[![Email](https://img.shields.io/badge/Email-likanug.g%40gmail.com-563d7c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likanug.g@gmail.com)
 
 </div>
 
