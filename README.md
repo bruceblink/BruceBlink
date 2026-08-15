@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=09FB53&center=true&vCenter=true&width=520&lines=Backend+Engineer+%F0%9F%9A%80;Java+%7C+Rust+%7C+Python+%7C+Go;Distributed+Systems+%26+Networking;Open+Source+%26+Tech+Translation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=09FB53&center=true&vCenter=true&width=520&lines=Backend+Engineer+%F0%9F%9A%80;Java+%7C+Rust+%7C+Python;Distributed+Systems+%26+Networking;Open+Source+Contributor+%F0%9F%8C%8D)](https://github.com/bruceblink)
 
 [![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=flat-square&logo=github&logoColor=white)](https://github.com/bruceblink)
 [![Email](https://img.shields.io/badge/Email-likanug.g%40gmail.com-563d7c?style=flat-square&logo=gmail&logoColor=white)](mailto:likanug.g@gmail.com)
@@ -24,6 +24,7 @@
 - 🚀 Prefer building **long-term maintainable engineering projects**
 - 📚 Believe: **understanding the system beats knowing the framework**
 - 🌍 Open source contributor & technical translator
+- 🎨 Building modern **desktop tools with Rust + GPUI** — high-performance, native apps
 
 ---
 
@@ -58,7 +59,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> P2P · UDP · NAT Hole Punching · iroh · async/await
+> P2P · UDP · NAT Hole Punching · iroh · async/await · GPUI · OIDC/OAuth2 · MFA
 
 ### Frontend / Desktop
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -92,26 +93,56 @@
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Featured Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**alter-sendme**](https://github.com/bruceblink/alter-sendme) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Secure P2P file transfer with NAT traversal (iroh) |
-| [**sendmer**](https://github.com/bruceblink/sendmer) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | CLI file sender — foundation of AlterSendme |
-| [**Agora**](https://github.com/bruceblink/Agora) | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | Multi-source news aggregation & event analysis platform |
-| [**Keystone**](https://github.com/bruceblink/Keystone) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot enterprise admin scaffold |
-| [**LatestNews**](https://github.com/bruceblink/LatestNews) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Full-stack multi-source news aggregator |
+### **Authentication & Authorization Platform**
+| Project | Tech | Status | Highlights |
+|---------|------|--------|-----------|
+| **[Keylo](https://github.com/bruceblink/Keylo)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🔴 **Active** | Unified auth service — OIDC/OAuth2, TOTP MFA, upstream federation, service principals, v2.0 release cycle |
+
+### **Desktop Applications (GPUI + Tauri)**
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[flash-shot](https://github.com/bruceblink/flash-shot)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Fast native screenshot & screen recording tool |
+| **[alter-sendmer](https://github.com/bruceblink/alter-sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | GPUI P2P file transfer client — successor to alter-sendme |
+| **[ashell](https://github.com/bruceblink/ashell)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Modern GPUI desktop terminal client |
+| **[JustTodo](https://github.com/bruceblink/JustTodo)** | ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 📦 Stable | Tauri 2.0 desktop app scaffold |
+
+### **P2P & Networking**
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[sendmer](https://github.com/bruceblink/sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | CLI P2P file sender — iroh-based, NAT traversal |
+| **[SyncHub](https://github.com/bruceblink/SyncHub)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 🟡 Active | Developer workspace sync platform |
+| **[synchub-desktop](https://github.com/bruceblink/synchub-desktop)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🔧 WIP | SyncHub desktop client |
+
+### **News Aggregation & Data Systems**
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[Agora](https://github.com/bruceblink/Agora)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Multi-source news aggregation & event analysis platform |
+| **[LatestNews](https://github.com/bruceblink/LatestNews)** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🟡 Active | Real-time full-stack news aggregator |
+
+### **Enterprise Scaffolds**
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[Keystone](https://github.com/bruceblink/Keystone)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 📦 Stable | Spring Boot 3 enterprise admin scaffold — production-ready foundation |
+| **[Keystone-frontend](https://github.com/bruceblink/Keystone-frontend)** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 📦 Stable | Vue 3 admin frontend for Keystone |
+
+### **Utilities & Tools**
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[free-v2ray](https://github.com/bruceblink/free-v2ray)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 📦 Stable | V2Ray node collection & testing tool (6 stars) |
+| **[reference](https://github.com/bruceblink/reference)** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 📦 Stable | Developer quick reference cheatsheets |
 
 ---
 
 ## 📖 Writing & Translations
 
-| Book | Language |
-|------|----------|
-| 📘 *Learn Haskell by Example* | Chinese |
-| 📗 *Database Design and Implementation* | Chinese |
-| 📙 *Practical File System Design* | Chinese |
-| 📕 *Rust Atomics and Locks* | Chinese |
+| Book | Language | Status |
+|------|----------|--------|
+| 📘 *Learn Haskell by Example* | Chinese | ✅ Published |
+| 📗 *Database Design and Implementation* | Chinese | ✅ Published |
+| 📙 *Practical File System Design* | Chinese | ✅ Published |
+| 📕 *Rust Atomics and Locks* | Chinese | ✅ Published |
 
 🔗 [likanug.top/books](https://likanug.top/books/intro)
 
@@ -126,6 +157,20 @@
 
 ---
 
+## 📊 Recent Focus (2026)
+
+**First Half:**
+- 🔐 **Keylo v2.0** — Complete redesign with service principals, refresh token rotation, session policies
+- 🎨 **GPUI Ecosystem** — flash-shot, ashell optimization and feature expansion
+- 🔄 **SyncHub Development** — Platform stabilization and desktop client integration
+
+**Current (Q3):**
+- ✅ Keylo 2.0 production hardening — OIDC federation, upstream identity mapping, Keycloak alignment
+- 🎯 Desktop tooling — P2P protocols, NAT traversal refinement in sendmer/alter-sendmer
+- 📚 Knowledge base expansion — Technical writing and content updates
+
+---
+
 ## 📫 Contact
 
 <div align="center">
@@ -137,4 +182,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=80&section=footer)
-
