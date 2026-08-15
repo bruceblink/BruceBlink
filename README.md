@@ -18,8 +18,8 @@
 ## 🧠 About Me
 
 - 💻 Backend engineer with solid **Java** experience
-- 🦀 Long-term **Rust** user — ownership, lifetimes, async, concurrency
-- 🏗️ Interested in **distributed systems, networking & low-level design**
+- 🦀 Long-term **Rust** enthusiast — ownership, lifetimes, async, concurrency
+- 🏗️ Passionate about **distributed systems, networking & low-level design**
 - 🕷️ Treat web scraping as a **data collection subsystem**, not just scripts
 - 🚀 Prefer building **long-term maintainable engineering projects**
 - 📚 Believe: **understanding the system beats knowing the framework**
@@ -85,12 +85,6 @@
 
 </div>
 
-<div align="center">
-
-![snake gif](https://github.com/bruceblink/bruceblink/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 🧩 Featured Projects
@@ -98,21 +92,20 @@
 ### **Authentication & Authorization Platform**
 | Project | Tech | Status | Highlights |
 |---------|------|--------|-----------|
-| **[Keylo](https://github.com/bruceblink/Keylo)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🔴 **Active** | Unified auth service — OIDC/OAuth2, TOTP MFA, upstream federation, service principals, v2.0 release cycle |
+| **[Keylo](https://github.com/bruceblink/Keylo)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🔴 **Active** | Unified auth service — OIDC/OAuth2, TOTP MFA, upstream federation, service principals, v2.0 (451+ commits) |
 
 ### **Desktop Applications (GPUI + Tauri)**
 | Project | Tech | Status | Description |
 |---------|------|--------|-------------|
-| **[flash-shot](https://github.com/bruceblink/flash-shot)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Fast native screenshot & screen recording tool |
-| **[alter-sendmer](https://github.com/bruceblink/alter-sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | GPUI P2P file transfer client — successor to alter-sendme |
-| **[ashell](https://github.com/bruceblink/ashell)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Modern GPUI desktop terminal client |
-| **[JustTodo](https://github.com/bruceblink/JustTodo)** | ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 📦 Stable | Tauri 2.0 desktop app scaffold |
+| **[flash-shot](https://github.com/bruceblink/flash-shot)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | Native screenshot & screen recording — high-perf GPUI (593+ commits) |
+| **[alter-sendmer](https://github.com/bruceblink/alter-sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | GPUI P2P file transfer client — successor to Tauri alter-sendme |
+| **[JustTodo](https://github.com/bruceblink/JustTodo)** | ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 📦 Stable | Tauri 2.0 desktop app scaffold — production-ready |
 
-### **P2P & Networking**
+### **P2P & Networking Systems**
 | Project | Tech | Status | Description |
 |---------|------|--------|-------------|
-| **[sendmer](https://github.com/bruceblink/sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | CLI P2P file sender — iroh-based, NAT traversal |
-| **[SyncHub](https://github.com/bruceblink/SyncHub)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 🟡 Active | Developer workspace sync platform |
+| **[sendmer](https://github.com/bruceblink/sendmer)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🟡 Active | CLI P2P file sender — iroh-based, NAT traversal (239+ commits) |
+| **[SyncHub](https://github.com/bruceblink/SyncHub)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 🟡 Active | Developer workspace sync platform (319+ commits) |
 | **[synchub-desktop](https://github.com/bruceblink/synchub-desktop)** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | 🔧 WIP | SyncHub desktop client |
 
 ### **News Aggregation & Data Systems**
@@ -127,10 +120,10 @@
 | **[Keystone](https://github.com/bruceblink/Keystone)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 📦 Stable | Spring Boot 3 enterprise admin scaffold — production-ready foundation |
 | **[Keystone-frontend](https://github.com/bruceblink/Keystone-frontend)** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 📦 Stable | Vue 3 admin frontend for Keystone |
 
-### **Utilities & Tools**
+### **Developer Tools & Utilities**
 | Project | Tech | Status | Description |
 |---------|------|--------|-------------|
-| **[free-v2ray](https://github.com/bruceblink/free-v2ray)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 📦 Stable | V2Ray node collection & testing tool (6 stars) |
+| **[it-tools-template](https://github.com/bruceblink/it-tools-template)** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 🟡 Active | Collection of handy online tools for developers — template project ([tools.likanug.app](https://tools.likanug.app)) |
 | **[reference](https://github.com/bruceblink/reference)** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 📦 Stable | Developer quick reference cheatsheets |
 
 ---
@@ -157,17 +150,19 @@
 
 ---
 
-## 📊 Recent Focus (2026)
+## 📊 2026 Development Snapshot
 
-**First Half:**
-- 🔐 **Keylo v2.0** — Complete redesign with service principals, refresh token rotation, session policies
-- 🎨 **GPUI Ecosystem** — flash-shot, ashell optimization and feature expansion
-- 🔄 **SyncHub Development** — Platform stabilization and desktop client integration
+**6-Month Focus (Feb-Aug):**
+- 🔐 **Keylo v2.0** — 451+ commits, service principals, session management, OIDC federation
+- 🎨 **GPUI Ecosystem** — flash-shot (593+ commits), alter-sendmer (36+ commits), high-perf native apps
+- 🔄 **P2P Systems** — sendmer (239+ commits), SyncHub (319+ commits), NAT traversal refinement
+- 🛠️ **Developer Tools** — it-tools-template latest updates, reference maintenance
 
-**Current (Q3):**
-- ✅ Keylo 2.0 production hardening — OIDC federation, upstream identity mapping, Keycloak alignment
-- 🎯 Desktop tooling — P2P protocols, NAT traversal refinement in sendmer/alter-sendmer
-- 📚 Knowledge base expansion — Technical writing and content updates
+**Key Achievements:**
+- ✅ Keylo 2.0 production release (June 2026)
+- ✅ GPUI applications scaling up
+- ✅ P2P protocol maturation
+- ✅ Platform sync systems stabilization
 
 ---
 
