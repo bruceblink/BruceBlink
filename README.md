@@ -1,82 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=120&section=header&text=Hi%2C%20I'm%20Likanug!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=190&section=header&text=LIKANUG&fontSize=42&fontColor=F4F1EA&fontAlignY=43&desc=SYSTEMS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20PRODUCTS&descSize=13&descAlignY=68&descColor=9B9DA5" alt="Likanug — Systems, Backend, Products" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/bruceblink">GitHub</a>　·　<a href="mailto:likanug.g@gmail.com">Email</a>　·　<a href="https://likanug.top/books/intro">Writing & translations</a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bruceblink-563d7c?style=flat-square&logo=github&logoColor=white)](https://github.com/bruceblink)
-[![Email](https://img.shields.io/badge/Email-likanug.g%40gmail.com-563d7c?style=flat-square&logo=gmail&logoColor=white)](mailto:likanug.g@gmail.com)
-[![Books](https://img.shields.io/badge/Books-likanug.top-563d7c?style=flat-square&logo=gitbook&logoColor=white)](https://likanug.top/books/intro)
+<p align="center"><sub>Backend engineer building dependable systems and considered developer tools.</sub></p>
 
-</div>
+---
 
-<div align="center">
+### Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7CFFB2&center=true&vCenter=true&width=620&lines=Backend+Engineer;Rust+%7C+Java+%7C+Go;Distributed+Systems;Building+Reliable+Tools)](https://github.com/bruceblink)
+I work across backend engineering and systems software, with a focus on **Java and Rust**. My interests include distributed systems, networking, identity infrastructure, P2P software, and native desktop applications.
 
-</div>
+I value clear boundaries, reliable behavior, and software designed to evolve.
 
-I build systems that stay correct under load and tools that remain useful over time.
+### Selected work
 
-- Backend engineer with strong Java foundations
-- Rust-focused developer interested in ownership, async, concurrency, and systems design
-- Working across distributed systems, networking, P2P, auth, and native desktop apps
-- Prefer durable engineering over flashy but short-lived prototypes
+| Project | What it is |
+|:--|:--|
+| [Keylo](https://github.com/bruceblink/Keylo) | Identity and access platform, with authentication primitives and federation. |
+| [flash-shot](https://github.com/bruceblink/flash-shot) | Native screenshot application built with Rust and GPUI. |
+| [sendmer](https://github.com/bruceblink/sendmer) | Peer-to-peer file transfer. |
+| [SyncHub](https://github.com/bruceblink/SyncHub) | Developer workspace synchronization and collaboration. |
+| [Agora](https://github.com/bruceblink/Agora) | Multi-source news aggregation and event analysis. |
 
-## Core stack
+### Toolkit
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+`Java`　`Rust`　`Go`　`Python`　`TypeScript`  
+`Spring Boot`　`PostgreSQL`　`Docker`　`React`　`Tauri`　`GPUI`
 
-## Focus areas
+### Writing & translations
 
-- Authentication & authorization systems
-- P2P transport and file transfer
-- Distributed data and event-driven workflows
-- Native desktop apps with Rust + GPUI
-- Developer tooling and backend platform work
+Technical translations and writing on systems, architecture, and engineering practice.
 
-## Featured projects
+*Learn Haskell by Example* · *Database Design and Implementation* · *Practical File System Design* · *Rust Atomics and Locks*
 
-- [Keylo](https://github.com/bruceblink/Keylo) — Identity and access platform with auth primitives and federation
-- [flash-shot](https://github.com/bruceblink/flash-shot) — Native screenshot app built with Rust and GPUI
-- [sendmer](https://github.com/bruceblink/sendmer) — P2P file transfer tool for direct, efficient sharing
-- [SyncHub](https://github.com/bruceblink/SyncHub) — Developer workspace synchronization and collaboration system
-- [Agora](https://github.com/bruceblink/Agora) — Multi-source news aggregation and event analysis
+[Browse books & notes →](https://likanug.top/books/intro)
 
-## Writing & translations
+### Principles
 
-I translate and write technical materials on systems, architecture, and practical engineering.
+> Abstraction should reduce complexity, not conceal it.  
+> Build for evolution, not just delivery.
 
-- *Learn Haskell by Example*
-- *Database Design and Implementation*
-- *Practical File System Design*
-- *Rust Atomics and Locks*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruceblink&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B8AFB&icon_color=9B8AFB&text_color=9B9DA5" alt="GitHub statistics" />
+</p>
 
-[Books & notes](https://likanug.top/books/intro)
-
-## Philosophy
-
-> Abstraction should reduce complexity, not hide it.
->
-> Systems should be designed for evolution, not for one-time delivery.
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruceblink&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-[中文简介](./README.zh-CN.md)
-
-</div>
+<p align="center"><sub>中文版本 · <a href="./README.zh-CN.md">切换到简体中文</a></sub></p>
