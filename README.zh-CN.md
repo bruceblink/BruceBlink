@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=190&section=header&text=LIKANUG&fontSize=42&fontColor=F4F1EA&fontAlignY=43&desc=SYSTEMS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20PRODUCTS&descSize=13&descAlignY=68&descColor=9B9DA5" alt="Likanug — 系统 · 后端 · 产品" />
+  <br />
+  <sub>ＳＹＳＴＥＭＳ　·　ＢＡＣＫＥＮＤ　·　ＰＲＯＤＵＣＴＳ</sub>
+  <br /><br />
+  <strong>构建可靠系统与经得起推敲的开发者工具。</strong>
+  <br />
+  <sub>后端 · 分布式系统 · 网络</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/bruceblink">GitHub</a>　·　<a href="mailto:likanug.g@gmail.com">邮箱</a>　·　<a href="https://likanug.top/books/intro">译作与笔记</a>
 </p>
-
-<p align="center"><sub>后端工程师，专注构建可靠系统与经得起推敲的开发者工具。</sub></p>
 
 ---
 
@@ -16,15 +19,11 @@
 
 重视清晰的边界、可靠的行为，以及面向演进的软件设计。
 
-### 代表项目
+### 项目
 
-| 项目 | 简介 |
-|:--|:--|
-| [Keylo](https://github.com/bruceblink/Keylo) | 身份与访问平台，涵盖认证基础能力与联邦接入。 |
-| [flash-shot](https://github.com/bruceblink/flash-shot) | 基于 Rust 与 GPUI 构建的原生截图应用。 |
-| [sendmer](https://github.com/bruceblink/sendmer) | P2P 文件传输工具。 |
-| [SyncHub](https://github.com/bruceblink/SyncHub) | 开发者工作区同步与协作系统。 |
-| [Agora](https://github.com/bruceblink/Agora) | 多源新闻聚合与事件分析。 |
+项目方向会持续变化，因此不在主页维护容易过时的固定清单；最新项目与进展请查看 GitHub 仓库。
+
+<p align="center"><a href="https://github.com/bruceblink?tab=repositories">���览当前仓库 →</a></p>
 
 ### 技术工具箱
 
