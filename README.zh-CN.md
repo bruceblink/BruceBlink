@@ -30,40 +30,6 @@
 
 项目和重点会持续变化。为避免固定清单过时，请通过 [仓库页面](https://github.com/bruceblink?tab=repositories) 查看当前作品。
 
-<!-- public-profile:start -->
-## 公开数据速览
-
-| 公开非 fork 仓库 | 这些仓库的 Stars | Followers |
-| ---: | ---: | ---: |
-| 51 | 30 | 25 |
-
-范围：本人拥有的公开仓库，排除 fork，包含归档项目（14 个）。Followers 为账号公开关注者数。
-
-<details>
-<summary>主要语言 · 按仓库数量</summary>
-
-| GitHub 主要语言 | 仓库数 |
-| --- | ---: |
-| TypeScript | 16 |
-| Rust | 9 |
-| Python | 8 |
-| Java | 4 |
-| JavaScript | 4 |
-| Go | 3 |
-| C# | 1 |
-| Clojure | 1 |
-| Elixir | 1 |
-| HTML | 1 |
-| Haskell | 1 |
-| 未标注 | 2 |
-
-每个仓库按 GitHub 标注的主要语言计数；不代表代码字节占比、当前工作重点或能力。
-
-</details>
-
-[公开 API 与统计口径](./scripts/README.md) · 最后成功采集：2026-11-17 13:04:09 UTC · 计划每日更新，失败时保留旧数据。
-<!-- public-profile:end -->
-
 ## 技术工具箱
 
 **核心语言** · Rust · Go · Elixir  
