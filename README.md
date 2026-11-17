@@ -30,6 +30,40 @@ My work spans identity infrastructure, distributed systems, networking, peer-to-
 
 My projects and priorities evolve. Rather than keeping a static list that can become stale, I use the [repositories page](https://github.com/bruceblink?tab=repositories) as the current portfolio.
 
+<!-- public-profile:start -->
+## Public snapshot
+
+| Public non-fork repos | Stars on these repos | Followers |
+| ---: | ---: | ---: |
+| 51 | 30 | 25 |
+
+Scope: public repositories I own, excluding forks and including archived projects (14). Followers is the public account count.
+
+<details>
+<summary>Primary languages · repository counts</summary>
+
+| GitHub primary language | Repositories |
+| --- | ---: |
+| TypeScript | 16 |
+| Rust | 9 |
+| Python | 7 |
+| Java | 4 |
+| JavaScript | 4 |
+| Go | 3 |
+| C# | 1 |
+| Clojure | 1 |
+| Elixir | 1 |
+| HTML | 1 |
+| Haskell | 1 |
+| Unspecified | 3 |
+
+Each repository counts once by its GitHub primary language; this is not a share of code bytes, current work, or a measure of proficiency.
+
+</details>
+
+[Public API & methodology](./scripts/README.md) · Last successful collection: 2026-11-17 12:57:42 UTC · Scheduled daily; failures retain the previous snapshot.
+<!-- public-profile:end -->
+
 ## Toolkit
 
 **Core** · Rust · Go · Elixir  
