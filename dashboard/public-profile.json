@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "bruceblink",
-  "updated_at": "2026-11-17T12:57:42Z",
+  "updated_at": "2026-11-17T13:04:09Z",
   "scope": {
     "visibility": "public",
     "owner_only": true,
@@ -27,7 +27,7 @@
     },
     {
       "name": "Python",
-      "repositories": 7
+      "repositories": 8
     },
     {
       "name": "Java",
@@ -62,5 +62,5 @@
       "repositories": 1
     }
   ],
-  "without_primary_language": 3
+  "without_primary_language": 2
 }

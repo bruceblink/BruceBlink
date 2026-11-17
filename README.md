@@ -46,7 +46,7 @@ Scope: public repositories I own, excluding forks and including archived project
 | --- | ---: |
 | TypeScript | 16 |
 | Rust | 9 |
-| Python | 7 |
+| Python | 8 |
 | Java | 4 |
 | JavaScript | 4 |
 | Go | 3 |
@@ -55,13 +55,13 @@ Scope: public repositories I own, excluding forks and including archived project
 | Elixir | 1 |
 | HTML | 1 |
 | Haskell | 1 |
-| Unspecified | 3 |
+| Unspecified | 2 |
 
 Each repository counts once by its GitHub primary language; this is not a share of code bytes, current work, or a measure of proficiency.
 
 </details>
 
-[Public API & methodology](./scripts/README.md) · Last successful collection: 2026-11-17 12:57:42 UTC · Scheduled daily; failures retain the previous snapshot.
+[Public API & methodology](./scripts/README.md) · Last successful collection: 2026-11-17 13:04:09 UTC · Scheduled daily; failures retain the previous snapshot.
 <!-- public-profile:end -->
 
 ## Toolkit

@@ -46,7 +46,7 @@
 | --- | ---: |
 | TypeScript | 16 |
 | Rust | 9 |
-| Python | 7 |
+| Python | 8 |
 | Java | 4 |
 | JavaScript | 4 |
 | Go | 3 |
@@ -55,13 +55,13 @@
 | Elixir | 1 |
 | HTML | 1 |
 | Haskell | 1 |
-| 未标注 | 3 |
+| 未标注 | 2 |
 
 每个仓库按 GitHub 标注的主要语言计数；不代表代码字节占比、当前工作重点或能力。
 
 </details>
 
-[公开 API 与统计口径](./scripts/README.md) · 最后成功采集：2026-11-17 12:57:42 UTC · 计划每日更新，失败时保留旧数据。
+[公开 API 与统计口径](./scripts/README.md) · 最后成功采集：2026-11-17 13:04:09 UTC · 计划每日更新，失败时保留旧数据。
 <!-- public-profile:end -->
 
 ## 技术工具箱
