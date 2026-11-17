@@ -14,7 +14,7 @@
 
 ## 关于我
 
-我的工作横跨后端工程与系统软件，主要使用 **Rust 和 Java**。我关注如何跨语言、跨平台设计、构建、运行和持续演进可靠的软件。
+我的工作横跨后端工程与系统软件。目前工作主要使用 **Go**，并以 **Rust、Go 和 Elixir** 作为核心发展方向。我关注如何跨语言、跨平台设计、构建、运行和持续演进可靠的软件。
 
 我的项目涉及身份基础设施、分布式系统、网络、点对点软件和原生桌面应用。我重视清晰的边界、可观察的行为，以及解决实际问题的工程设计。
 
@@ -32,9 +32,10 @@
 
 ## 技术工具箱
 
-**语言** · Rust · Java · Go · Python · TypeScript
+**核心语言** · Rust · Go · Elixir  
+**其他语言** · Java · Python · TypeScript
 
-**生态** · Spring Boot · PostgreSQL · Docker · React · Tauri · GPUI
+**生态** · Phoenix · Spring Boot · PostgreSQL · Docker · React · Tauri · GPUI
 
 ## 翻译与写作
 
