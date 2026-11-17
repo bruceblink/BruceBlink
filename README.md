@@ -14,7 +14,7 @@ Backend engineering · Distributed systems · Networking · Native applications
 
 ## About
 
-I work across backend engineering and systems software, primarily with **Rust and Java**. I am interested in how reliable software is designed, built, operated, and evolved across languages and platforms.
+I work across backend engineering and systems software. I primarily use **Go** in my current work and focus my development on **Rust, Go, and Elixir**. I am interested in how reliable software is designed, built, operated, and evolved across languages and platforms.
 
 My work spans identity infrastructure, distributed systems, networking, peer-to-peer software, and native desktop applications. I value clear boundaries, observable behavior, and practical engineering over complexity for its own sake.
 
@@ -32,9 +32,10 @@ My projects and priorities evolve. Rather than keeping a static list that can be
 
 ## Toolkit
 
-**Languages** · Rust · Java · Go · Python · TypeScript
+**Core** · Rust · Go · Elixir  
+**Also use** · Java · Python · TypeScript
 
-**Ecosystem** · Spring Boot · PostgreSQL · Docker · React · Tauri · GPUI
+**Ecosystem** · Phoenix · Spring Boot · PostgreSQL · Docker · React · Tauri · GPUI
 
 ## Writing & translations
 
